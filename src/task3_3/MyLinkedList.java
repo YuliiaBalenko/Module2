@@ -79,7 +79,7 @@ public class MyLinkedList<E> {
         return result;
     }
 
-    class Item<E> {
+    public class Item<E> {
         public E value;
         public Item<E> previous;
         public Item<E> next;
