@@ -20,7 +20,6 @@ public class Area extends Shape{
     @Override
     public double circleArea(double radius) {
         // A = π r^2
-        final double pi = PI;
-        return pi * Math.pow(radius, 2);
+        return PI * Math.pow(radius, 2);
     }
 }
