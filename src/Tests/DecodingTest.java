@@ -15,16 +15,21 @@ public class DecodingTest {
     private RunLengthEncoding rle = new RunLengthEncoding();
     private String expected;
     private String value;
+    private String wrongValue;
 
     @Parameterized.Parameters
     public static Collection data() {
-        return Arrays.asList(new Object[][]{{"AAAAaaaBBBBBB\\12", "4A3a6B\\\\\\1\\2"}, {"AaaaBB\\\\2", "1A3a2B\\\\\\\\\\2"}, {"AaaaBB2", "1A3a2B\\2"}});
+        return Arrays.asList(new Object[][]{
+                {"AAAAaaaBBBBBB\\12", "4A3a6B\\\\\\1\\2", "4A3a6B\\\\\\1\\45"},
+                {"AaaaBB\\\\2", "1A3a2B\\\\\\\\\\2", "1A3a2B\\\\\\\\\\66"},
+                {"AaaaBB2", "1A3a2B\\2", "1A3a2B\\89"}});
     }
 
-    public DecodingTest(String expected, String value) {
+    public DecodingTest(String expected, String value, String wrongValue) {
 
         this.expected = expected;
         this.value = value;
+        this.wrongValue = wrongValue;
     }
 
     @Test
@@ -32,9 +37,10 @@ public class DecodingTest {
         assertEquals(expected, rle.decode(value));
     }
 
-    @Test(expected = Error.class)
+    @Test(expected = RuntimeException.class)
     public void decodingException() {
-        rle.decode("4A3a6B\\\\\\1\\\2");
+        rle.decode(wrongValue);
 
     }
+
 }

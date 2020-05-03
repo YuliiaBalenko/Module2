@@ -9,9 +9,11 @@ import org.junit.runners.Suite;
 @Suite.SuiteClasses({
         DecodingTest.class,
         EncodingTest.class,
-        MyLinkedListTest.class
+        LinkedListTest.class
 })
 
 public class TestSuit {
 
 }
+
+

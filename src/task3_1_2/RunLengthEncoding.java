@@ -29,7 +29,7 @@ public class RunLengthEncoding {
         return encodedBString.toString();
     }
 
-    public String decode(String inputString) {
+    public String decode(String inputString) throws RuntimeException {
 
         if (inputString == null || inputString.isEmpty())
             return "";
@@ -59,10 +59,10 @@ public class RunLengthEncoding {
                     }
                     i++;
                 } else {
-                    throw new Error("ERROR: next symbol must be a-z || A-Z");
+                    throw new RuntimeException("ERROR: next symbol must be a-z || A-Z");
                 }
             } else {
-                throw new Error("ERROR: invalid data");
+                throw new RuntimeException("ERROR: invalid data");
             }
         }
 

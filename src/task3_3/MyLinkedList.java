@@ -25,7 +25,8 @@ public class MyLinkedList<E> {
 
         if (index == 0) {
             head = head.next;
-            head.previous = null;
+            if(head != null)
+                head.previous = null;
             return;
         }
 
@@ -62,6 +63,20 @@ public class MyLinkedList<E> {
         }
 
         throw new IndexOutOfBoundsException();
+    }
+
+    public int length() {
+        if (head == null)
+            return 0;
+
+        int count = 1;
+        Item<E> temp = head;
+        while (temp.next != null) {
+            count++;
+            temp = temp.next;
+        }
+
+        return count;
     }
 
     @Override

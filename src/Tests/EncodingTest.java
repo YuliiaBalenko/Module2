@@ -18,8 +18,12 @@ public class EncodingTest {
 
     @Parameterized.Parameters
     public static Collection data() {
-        return Arrays.asList(new Object[][]{{"4A3a6B\\\\\\1\\2","AAAAaaaBBBBBB\\12"},{"1A3a2B\\\\\\\\\\2","AaaaBB\\\\2"}, {"1A3a2B\\2","AaaaBB2"}});
+        return Arrays.asList(new Object[][]{
+                {"4A3a6B\\\\\\1\\2", "AAAAaaaBBBBBB\\12"},
+                {"1A3a2B\\\\\\\\\\2", "AaaaBB\\\\2"},
+                {"1A3a2B\\2", "AaaaBB2"}});
     }
+
     public EncodingTest(String expected, String value) {
 
         this.expected = expected;
