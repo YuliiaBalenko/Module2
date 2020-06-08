@@ -1,0 +1,458 @@
+2020-06-03 00:13:00.343 [main] WARN  MyFile - Warning: pet count must be more 0, current value = -2
+2020-06-03 00:13:00.345 [main] INFO  MyFile - Warning: children count must be more 0, current value = -1
+2020-06-03 00:13:00.346 [main] INFO  MyFile - Warning: children count must be more 0, current value = 0
+2020-06-03 00:13:00.347 [main] WARN  MyFile - Warning: pet count must be more 0, current value = -1
+2020-06-03 00:13:00.347 [main] WARN  MyFile - Warning: pet count must be more 0, current value = -2
+2020-06-03 00:13:00.347 [main] WARN  MyFile - Warning: pet count must be more 0, current value = 0
+2020-06-03 00:13:00.348 [main] WARN  MyFile - Warning: pet count must be more 0, current value = -2
+2020-06-03 00:13:00.348 [main] INFO  MyFile - Warning: children count must be more 0, current value = -1
+2020-06-03 00:13:00.348 [main] WARN  MyFile - Warning: pet count must be more 0, current value = 0
+2020-06-03 00:13:00.349 [main] WARN  MyFile - Warning: pet count must be more 0, current value = -2
+2020-06-03 00:13:00.349 [main] INFO  MyFile - Warning: children count must be more 0, current value = -2
+2020-06-03 00:13:00.349 [main] WARN  MyFile - Warning: pet count must be more 0, current value = -1
+2020-06-03 00:13:00.350 [main] WARN  MyFile - Warning: pet count must be more 0, current value = -1
+2020-06-03 00:13:00.350 [main] INFO  MyFile - Warning: children count must be more 0, current value = 0
+2020-06-03 00:13:00.350 [main] INFO  MyFile - Warning: children count must be more 0, current value = 0
+2020-06-03 00:13:00.351 [main] WARN  MyFile - Warning: pet count must be more 0, current value = 0
+2020-06-03 00:13:00.351 [main] INFO  MyFile - Warning: children count must be more 0, current value = -2
+2020-06-03 00:16:09.270 [main] WARN  MyFile - Warning: pet count must be more 0, current value = 0
+2020-06-03 00:16:09.273 [main] INFO  MyFile - Warning: children count must be more 0, current value = -2
+2020-06-03 00:16:09.274 [main] INFO  MyFile2 - Another
+2020-06-03 00:16:09.274 [main] WARN  MyFile - Warning: pet count must be more 0, current value = -2
+2020-06-03 00:16:09.274 [main] INFO  MyFile2 - Another
+2020-06-03 00:16:09.275 [main] WARN  MyFile - Warning: pet count must be more 0, current value = 0
+2020-06-03 00:16:09.275 [main] INFO  MyFile2 - Another
+2020-06-03 00:16:09.276 [main] INFO  MyFile2 - Another
+2020-06-03 00:16:09.276 [main] WARN  MyFile - Warning: pet count must be more 0, current value = 0
+2020-06-03 00:16:09.276 [main] INFO  MyFile - Warning: children count must be more 0, current value = -2
+2020-06-03 00:16:09.276 [main] INFO  MyFile2 - Another
+2020-06-03 00:16:09.277 [main] WARN  MyFile - Warning: pet count must be more 0, current value = -1
+2020-06-03 00:16:09.277 [main] INFO  MyFile2 - Another
+2020-06-03 00:16:09.277 [main] WARN  MyFile - Warning: pet count must be more 0, current value = -1
+2020-06-03 00:16:09.277 [main] INFO  MyFile - Warning: children count must be more 0, current value = -2
+2020-06-03 00:16:09.278 [main] INFO  MyFile2 - Another
+2020-06-03 00:16:09.278 [main] INFO  MyFile - Warning: children count must be more 0, current value = 0
+2020-06-03 00:16:09.279 [main] INFO  MyFile2 - Another
+2020-06-03 00:16:09.279 [main] WARN  MyFile - Warning: pet count must be more 0, current value = -1
+2020-06-03 00:16:09.279 [main] WARN  MyFile - Warning: pet count must be more 0, current value = -2
+2020-06-03 00:16:09.279 [main] INFO  MyFile2 - Another
+2020-06-03 00:16:09.280 [main] WARN  MyFile - Warning: pet count must be more 0, current value = -1
+2020-06-03 00:16:09.280 [main] INFO  MyFile2 - Another
+2020-06-04 00:25:44.117 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -2
+2020-06-04 00:25:44.119 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = 0
+2020-06-04 00:25:44.119 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 00:25:44.119 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -2
+2020-06-04 00:25:44.120 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-04 00:25:44.120 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -2
+2020-06-04 00:25:44.120 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-04 00:25:44.120 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-04 00:25:44.121 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -2
+2020-06-04 00:25:44.121 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -1
+2020-06-04 00:25:44.121 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-04 00:25:44.121 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-04 00:25:44.121 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = 0
+2020-06-04 00:39:18.863 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -2
+2020-06-04 00:39:18.866 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-04 00:39:18.866 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-04 00:39:18.867 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 00:39:18.867 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 00:39:18.867 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 00:39:18.867 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 00:39:18.868 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 00:40:55.316 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 00:40:55.320 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 00:40:55.321 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-04 00:40:55.322 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 00:40:55.322 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-04 00:40:55.322 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 00:40:55.323 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 00:40:55.323 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-04 00:40:55.323 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 00:49:59.064 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -2
+2020-06-04 00:49:59.067 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = 0
+2020-06-04 00:49:59.068 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 00:49:59.068 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -1
+2020-06-04 00:49:59.069 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -2
+2020-06-04 00:49:59.069 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 00:49:59.069 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 00:49:59.069 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 00:49:59.070 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-04 00:49:59.070 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -1
+2020-06-04 00:49:59.071 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-04 00:49:59.071 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -2
+2020-06-04 00:49:59.071 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 00:49:59.071 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = 0
+2020-06-04 00:49:59.072 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -2
+2020-06-04 00:49:59.073 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -2
+2020-06-04 00:49:59.073 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 00:49:59.073 [main] CUSTOMER Logging.Test -     STATISTICS BEGIN
+2020-06-04 00:49:59.074 [main] CUSTOMER Logging.Test - 
+2020-06-04 00:49:59.074 [main] CUSTOMER Logging.Test - 
+2020-06-04 00:49:59.074 [main] CUSTOMER Logging.Test - person count: 10
+2020-06-04 00:49:59.074 [main] CUSTOMER Logging.Test - male count: 1
+2020-06-04 00:49:59.074 [main] CUSTOMER Logging.Test - female count: 6
+2020-06-04 00:49:59.074 [main] CUSTOMER Logging.Test - person has children: 7
+2020-06-04 00:49:59.075 [main] CUSTOMER Logging.Test - person has children more 2: 6
+2020-06-04 00:49:59.075 [main] CUSTOMER Logging.Test - children girl count: 3
+2020-06-04 00:49:59.075 [main] CUSTOMER Logging.Test - person with cat: 1
+2020-06-04 00:49:59.075 [main] CUSTOMER Logging.Test - person with parrot: 1
+2020-06-04 00:49:59.075 [main] CUSTOMER Logging.Test - person with dancing hobby: 1
+2020-06-04 00:49:59.076 [main] CUSTOMER Logging.Test - 
+2020-06-04 00:49:59.076 [main] CUSTOMER Logging.Test - 
+2020-06-04 00:49:59.076 [main] CUSTOMER Logging.Test -     STATISTICS END
+2020-06-04 01:02:27.433 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-04 01:02:27.436 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -2
+2020-06-04 01:02:27.437 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-04 01:02:27.438 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 01:02:27.438 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-04 01:02:27.438 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -2
+2020-06-04 01:02:27.438 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-04 01:02:27.439 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -1
+2020-06-04 01:02:27.439 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -2
+2020-06-04 01:02:27.439 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-04 01:02:27.439 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 01:02:27.440 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -1
+2020-06-04 01:02:27.440 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = 0
+2020-06-04 01:02:27.440 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-04 01:02:27.441 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -2
+2020-06-04 01:02:27.441 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = 0
+2020-06-04 01:02:27.441 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 01:02:27.442 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = 0
+2020-06-04 01:02:27.442 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-04 01:02:27.442 [main] CUSTOMER Logging.Test -     STATISTICS BEGIN
+2020-06-04 01:02:27.442 [main] CUSTOMER Logging.Test - 
+2020-06-04 01:02:27.442 [main] CUSTOMER Logging.Test - 
+2020-06-04 01:02:27.442 [main] CUSTOMER Logging.Test - person count: 10
+2020-06-04 01:02:27.442 [main] CUSTOMER Logging.Test - male count: 2
+2020-06-04 01:02:27.443 [main] CUSTOMER Logging.Test - female count: 6
+2020-06-04 01:02:27.443 [main] CUSTOMER Logging.Test - person has children: 5
+2020-06-04 01:02:27.443 [main] CUSTOMER Logging.Test - person has children more 2: 4
+2020-06-04 01:02:27.443 [main] CUSTOMER Logging.Test - children girl count: 2
+2020-06-04 01:02:27.443 [main] CUSTOMER Logging.Test - person with cat: 2
+2020-06-04 01:02:27.443 [main] CUSTOMER Logging.Test - person with parrot: 5
+2020-06-04 01:02:27.443 [main] CUSTOMER Logging.Test - person with dancing hobby: 1
+2020-06-04 01:02:27.444 [main] CUSTOMER Logging.Test - 
+2020-06-04 01:02:27.444 [main] CUSTOMER Logging.Test - 
+2020-06-04 01:02:27.444 [main] CUSTOMER Logging.Test -     STATISTICS END
+2020-06-04 01:11:48.944 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 01:11:48.947 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -2
+2020-06-04 01:11:48.948 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-04 01:11:48.948 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -1
+2020-06-04 01:11:48.949 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-04 01:11:48.949 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 01:11:48.949 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = 0
+2020-06-04 01:11:48.950 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-04 01:11:48.950 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-04 01:11:48.950 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -2
+2020-06-04 01:11:48.950 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 01:11:48.951 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -2
+2020-06-04 01:11:48.951 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -2
+2020-06-04 01:11:48.951 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-04 01:11:48.952 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -2
+2020-06-04 01:11:48.952 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 01:11:48.952 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = 0
+2020-06-04 01:11:48.953 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 01:11:48.953 [main] CUSTOMER Logging.Test -     STATISTICS BEGIN
+2020-06-04 01:11:48.953 [main] CUSTOMER Logging.Test - 
+2020-06-04 01:11:48.953 [main] CUSTOMER Logging.Test - 
+2020-06-04 01:11:48.953 [main] CUSTOMER Logging.Test - person count: 10
+2020-06-04 01:11:48.953 [main] CUSTOMER Logging.Test - male count: 2
+2020-06-04 01:11:48.954 [main] CUSTOMER Logging.Test - female count: 5
+2020-06-04 01:11:48.954 [main] CUSTOMER Logging.Test - person has children: 7
+2020-06-04 01:11:48.954 [main] CUSTOMER Logging.Test - person has children more 2: 6
+2020-06-04 01:11:48.954 [main] CUSTOMER Logging.Test - children girl count: 3
+2020-06-04 01:11:48.954 [main] CUSTOMER Logging.Test - person with cat: 0
+2020-06-04 01:11:48.954 [main] CUSTOMER Logging.Test - person with parrot: 1
+2020-06-04 01:11:48.954 [main] CUSTOMER Logging.Test - person with dancing hobby: 2
+2020-06-04 01:11:48.955 [main] CUSTOMER Logging.Test - 
+2020-06-04 01:11:48.955 [main] CUSTOMER Logging.Test - 
+2020-06-04 01:11:48.955 [main] CUSTOMER Logging.Test -     STATISTICS END
+2020-06-04 01:13:03.645 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 01:13:03.647 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -2
+2020-06-04 01:13:03.648 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -2
+2020-06-04 01:13:03.649 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-04 01:13:03.649 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -2
+2020-06-04 01:13:03.650 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -2
+2020-06-04 01:13:03.650 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 01:13:03.650 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-04 01:13:03.651 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = 0
+2020-06-04 01:13:03.651 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -2
+2020-06-04 01:13:03.651 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 01:13:03.651 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -2
+2020-06-04 01:13:03.652 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = 0
+2020-06-04 01:13:03.652 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 01:13:03.652 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -2
+2020-06-04 01:13:03.652 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-04 01:13:03.652 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -1
+2020-06-04 01:13:03.653 [main] CUSTOMER Logging.Test -     STATISTICS BEGIN
+2020-06-04 01:13:03.653 [main] CUSTOMER Logging.Test - 
+2020-06-04 01:13:03.653 [main] CUSTOMER Logging.Test - 
+2020-06-04 01:13:03.653 [main] CUSTOMER Logging.Test - person count: 10
+2020-06-04 01:13:03.653 [main] CUSTOMER Logging.Test - male count: 2
+2020-06-04 01:13:03.653 [main] CUSTOMER Logging.Test - female count: 2
+2020-06-04 01:13:03.654 [main] CUSTOMER Logging.Test - person has children: 5
+2020-06-04 01:13:03.654 [main] CUSTOMER Logging.Test - person has children more 2: 2
+2020-06-04 01:13:03.654 [main] CUSTOMER Logging.Test - children girl count: 1
+2020-06-04 01:13:03.654 [main] CUSTOMER Logging.Test - person with cat: 3
+2020-06-04 01:13:03.654 [main] CUSTOMER Logging.Test - person with parrot: 1
+2020-06-04 01:13:03.654 [main] CUSTOMER Logging.Test - person with dancing hobby: 2
+2020-06-04 01:13:03.654 [main] CUSTOMER Logging.Test - 
+2020-06-04 01:13:03.655 [main] CUSTOMER Logging.Test - 
+2020-06-04 01:13:03.655 [main] CUSTOMER Logging.Test -     STATISTICS END
+2020-06-07 13:27:36.977 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = 0
+2020-06-07 13:27:36.981 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -1
+2020-06-07 13:27:36.981 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-07 13:27:36.981 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = 0
+2020-06-07 13:27:36.982 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -2
+2020-06-07 13:27:36.982 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = 0
+2020-06-07 13:27:36.983 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -2
+2020-06-07 13:27:36.983 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -2
+2020-06-07 13:27:36.984 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = 0
+2020-06-07 13:27:36.985 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -1
+2020-06-07 13:27:36.985 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -2
+2020-06-07 13:27:36.985 [main] CUSTOMER Logging.Test -     STATISTICS BEGIN
+2020-06-07 13:27:36.986 [main] CUSTOMER Logging.Test - 
+2020-06-07 13:27:36.986 [main] CUSTOMER Logging.Test - 
+2020-06-07 13:27:36.986 [main] CUSTOMER Logging.Test - person count: 10
+2020-06-07 13:27:36.986 [main] CUSTOMER Logging.Test - male count: 1
+2020-06-07 13:27:36.986 [main] CUSTOMER Logging.Test - female count: 4
+2020-06-07 13:27:36.987 [main] CUSTOMER Logging.Test - person has children: 4
+2020-06-07 13:27:36.987 [main] CUSTOMER Logging.Test - person has children more 2: 4
+2020-06-07 13:27:36.987 [main] CUSTOMER Logging.Test - children girl count: 2
+2020-06-07 13:27:36.987 [main] CUSTOMER Logging.Test - person with cat: 4
+2020-06-07 13:27:36.987 [main] CUSTOMER Logging.Test - person with parrot: 2
+2020-06-07 13:27:36.987 [main] CUSTOMER Logging.Test - person with dancing hobby: 3
+2020-06-07 13:27:36.988 [main] CUSTOMER Logging.Test - 
+2020-06-07 13:27:36.988 [main] CUSTOMER Logging.Test - 
+2020-06-07 13:27:36.988 [main] CUSTOMER Logging.Test -     STATISTICS END
+2020-06-07 13:51:11.243 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -2
+2020-06-07 13:51:11.244 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -1
+2020-06-07 13:51:11.245 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-07 13:51:11.245 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-07 13:51:11.246 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -1
+2020-06-07 13:51:11.246 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -2
+2020-06-07 13:51:11.246 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-07 13:51:11.247 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -2
+2020-06-07 13:51:11.247 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-07 13:51:11.247 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-07 13:51:11.248 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = 0
+2020-06-07 13:51:11.248 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -2
+2020-06-07 13:51:11.248 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -1
+2020-06-07 13:51:11.249 [main] CUSTOMER Logging.Test -     STATISTICS BEGIN
+2020-06-07 13:51:11.249 [main] CUSTOMER Logging.Test - 
+2020-06-07 13:51:11.249 [main] CUSTOMER Logging.Test - 
+2020-06-07 13:51:11.250 [main] CUSTOMER Logging.Test - person count: 10
+2020-06-07 13:51:11.250 [main] CUSTOMER Logging.Test - male count: 4
+2020-06-07 13:51:11.250 [main] CUSTOMER Logging.Test - female count: 2
+2020-06-07 13:51:11.250 [main] CUSTOMER Logging.Test - person has children: 4
+2020-06-07 13:51:11.250 [main] CUSTOMER Logging.Test - person has children more 2: 0
+2020-06-07 13:51:11.250 [main] CUSTOMER Logging.Test - children girl count: 1
+2020-06-07 13:51:11.250 [main] CUSTOMER Logging.Test - person with cat: 3
+2020-06-07 13:51:11.251 [main] CUSTOMER Logging.Test - person with parrot: 3
+2020-06-07 13:51:11.251 [main] CUSTOMER Logging.Test - person with dancing hobby: 1
+2020-06-07 13:51:11.251 [main] CUSTOMER Logging.Test - 
+2020-06-07 13:51:11.251 [main] CUSTOMER Logging.Test - 
+2020-06-07 13:51:11.251 [main] CUSTOMER Logging.Test -     STATISTICS END
+2020-06-07 14:20:01.923 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-07 14:20:01.928 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-07 14:20:01.929 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-07 14:20:01.929 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -1
+2020-06-07 14:20:01.930 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -1
+2020-06-07 14:20:01.931 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-07 14:20:01.931 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -2
+2020-06-07 14:20:01.931 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -1
+2020-06-07 14:20:01.932 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = 0
+2020-06-07 14:20:01.932 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-07 14:20:01.932 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -2
+2020-06-07 14:20:01.932 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-07 14:20:01.933 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = 0
+2020-06-07 14:20:01.933 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -2
+2020-06-07 14:20:01.934 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-07 14:20:01.934 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-07 14:20:01.934 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-07 14:20:01.935 [main] CUSTOMER Logging.Test -     STATISTICS BEGIN
+2020-06-07 14:20:01.935 [main] CUSTOMER Logging.Test - 
+2020-06-07 14:20:01.935 [main] CUSTOMER Logging.Test - 
+2020-06-07 14:20:01.935 [main] CUSTOMER Logging.Test - person count: 10
+2020-06-07 14:20:01.935 [main] CUSTOMER Logging.Test - male count: 1
+2020-06-07 14:20:01.936 [main] CUSTOMER Logging.Test - female count: 3
+2020-06-07 14:20:01.936 [main] CUSTOMER Logging.Test - person has children: 6
+2020-06-07 14:20:01.936 [main] CUSTOMER Logging.Test - person has children more 2: 2
+2020-06-07 14:20:01.936 [main] CUSTOMER Logging.Test - children girl count: 1
+2020-06-07 14:20:01.936 [main] CUSTOMER Logging.Test - person with cat: 1
+2020-06-07 14:20:01.936 [main] CUSTOMER Logging.Test - person with parrot: 1
+2020-06-07 14:20:01.936 [main] CUSTOMER Logging.Test - person with dancing hobby: 2
+2020-06-07 14:20:01.937 [main] CUSTOMER Logging.Test - 
+2020-06-07 14:20:01.937 [main] CUSTOMER Logging.Test - 
+2020-06-07 14:20:01.937 [main] CUSTOMER Logging.Test -     STATISTICS END
+2020-06-08 14:35:03.909 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-08 14:35:03.913 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = 0
+2020-06-08 14:35:03.915 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -1
+2020-06-08 14:35:03.915 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-08 14:35:03.916 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -1
+2020-06-08 14:35:03.916 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -1
+2020-06-08 14:35:03.916 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-08 14:35:03.917 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -1
+2020-06-08 14:35:03.917 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-08 14:35:03.917 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -2
+2020-06-08 14:35:03.918 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-08 14:35:03.918 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -2
+2020-06-08 14:35:03.918 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = 0
+2020-06-08 14:35:03.919 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-08 14:35:03.919 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = -2
+2020-06-08 14:35:03.920 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = -1
+2020-06-08 14:35:03.920 [main] WARN  Logging.PeopleBuilder - Warning: pet count must be more 0, current value = 0
+2020-06-08 14:35:03.921 [main] WARN  Logging.PeopleBuilder - Warning: children count must be more 0, current value = 0
+2020-06-08 14:35:03.921 [main] CUSTOMER Logging.Test -     STATISTICS BEGIN
+2020-06-08 14:35:03.922 [main] CUSTOMER Logging.Test - 
+2020-06-08 14:35:03.923 [main] CUSTOMER Logging.Test - 
+2020-06-08 14:35:03.923 [main] CUSTOMER Logging.Test - person count: 10
+2020-06-08 14:35:03.923 [main] CUSTOMER Logging.Test - male count: 2
+2020-06-08 14:35:03.924 [main] CUSTOMER Logging.Test - female count: 4
+2020-06-08 14:35:03.924 [main] CUSTOMER Logging.Test - person has children: 2
+2020-06-08 14:35:03.924 [main] CUSTOMER Logging.Test - person has children more 2: 2
+2020-06-08 14:35:03.924 [main] CUSTOMER Logging.Test - children girl count: 2
+2020-06-08 14:35:03.924 [main] CUSTOMER Logging.Test - person with cat: 2
+2020-06-08 14:35:03.925 [main] CUSTOMER Logging.Test - person with parrot: 4
+2020-06-08 14:35:03.925 [main] CUSTOMER Logging.Test - person with dancing hobby: 0
+2020-06-08 14:35:03.925 [main] CUSTOMER Logging.Test - 
+2020-06-08 14:35:03.925 [main] CUSTOMER Logging.Test - 
+2020-06-08 14:35:03.925 [main] CUSTOMER Logging.Test -     STATISTICS END
+2020-06-08 14:41:01.116 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = -2
+2020-06-08 14:41:01.124 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = -1
+2020-06-08 14:41:01.125 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = -2
+2020-06-08 14:41:01.125 [main] WARN  Logging.PeopleBuilder - Warning: pet amount must be more 0, current value = 0
+2020-06-08 14:41:01.126 [main] WARN  Logging.PeopleBuilder - Warning: hobby amount must be more 0, current value = -1
+2020-06-08 14:41:01.126 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = 0
+2020-06-08 14:41:01.127 [main] WARN  Logging.PeopleBuilder - Warning: pet amount must be more 0, current value = 0
+2020-06-08 14:41:01.127 [main] WARN  Logging.PeopleBuilder - Warning: hobby amount must be more 0, current value = 0
+2020-06-08 14:41:01.127 [main] WARN  Logging.PeopleBuilder - Warning: pet amount must be more 0, current value = 0
+2020-06-08 14:41:01.128 [main] WARN  Logging.PeopleBuilder - Warning: hobby amount must be more 0, current value = -2
+2020-06-08 14:41:01.128 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = 0
+2020-06-08 14:41:01.128 [main] WARN  Logging.PeopleBuilder - Warning: hobby amount must be more 0, current value = -2
+2020-06-08 14:41:01.129 [main] WARN  Logging.PeopleBuilder - Warning: hobby amount must be more 0, current value = -1
+2020-06-08 14:41:01.129 [main] WARN  Logging.PeopleBuilder - Warning: pet amount must be more 0, current value = -1
+2020-06-08 14:41:01.130 [main] WARN  Logging.PeopleBuilder - Warning: hobby amount must be more 0, current value = 0
+2020-06-08 14:41:01.130 [main] WARN  Logging.PeopleBuilder - Warning: pet amount must be more 0, current value = 0
+2020-06-08 14:41:01.131 [main] WARN  Logging.PeopleBuilder - Warning: hobby amount must be more 0, current value = -2
+2020-06-08 14:41:01.131 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = -1
+2020-06-08 14:41:01.132 [main] CUSTOMER Logging.Test -     STATISTICS BEGIN
+2020-06-08 14:41:01.132 [main] CUSTOMER Logging.Test - person count: 10
+2020-06-08 14:41:01.133 [main] CUSTOMER Logging.Test - male count: 5
+2020-06-08 14:41:01.133 [main] CUSTOMER Logging.Test - female count: 2
+2020-06-08 14:41:01.134 [main] CUSTOMER Logging.Test - person has children: 7
+2020-06-08 14:41:01.134 [main] CUSTOMER Logging.Test - person has children more 2: 6
+2020-06-08 14:41:01.134 [main] CUSTOMER Logging.Test - children girl count: 1
+2020-06-08 14:41:01.134 [main] CUSTOMER Logging.Test - person with cat: 2
+2020-06-08 14:41:01.135 [main] CUSTOMER Logging.Test - person with parrot: 1
+2020-06-08 14:41:01.135 [main] CUSTOMER Logging.Test - person with dancing hobby: 1
+2020-06-08 14:41:01.135 [main] CUSTOMER Logging.Test -     STATISTICS END
+2020-06-08 14:47:46.162 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = 0
+2020-06-08 14:47:46.165 [main] WARN  Logging.PeopleBuilder - Warning: pet amount must be more 0, current value = 0
+2020-06-08 14:47:46.166 [main] WARN  Logging.PeopleBuilder - Warning: hobby amount must be more 0, current value = -2
+2020-06-08 14:47:46.166 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = -2
+2020-06-08 14:47:46.167 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = -1
+2020-06-08 14:47:46.167 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = -2
+2020-06-08 14:47:46.167 [main] WARN  Logging.PeopleBuilder - Warning: hobby amount must be more 0, current value = 0
+2020-06-08 14:47:46.168 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = -2
+2020-06-08 14:47:46.168 [main] WARN  Logging.PeopleBuilder - Warning: hobby amount must be more 0, current value = -1
+2020-06-08 14:47:46.168 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = -2
+2020-06-08 14:47:46.169 [main] WARN  Logging.PeopleBuilder - Warning: pet amount must be more 0, current value = 0
+2020-06-08 14:47:46.169 [main] WARN  Logging.PeopleBuilder - Warning: hobby amount must be more 0, current value = -1
+2020-06-08 14:47:46.170 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = -1
+2020-06-08 14:47:46.170 [main] WARN  Logging.PeopleBuilder - Warning: hobby amount must be more 0, current value = 0
+2020-06-08 14:47:46.171 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = -2
+2020-06-08 14:47:46.171 [main] WARN  Logging.PeopleBuilder - Warning: pet amount must be more 0, current value = 0
+2020-06-08 14:47:46.172 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = 0
+2020-06-08 14:47:46.172 [main] CUSTOMER Logging.Test -  STATISTICS 
+2020-06-08 14:47:46.173 [main] CUSTOMER Logging.Test - person count: 10
+2020-06-08 14:47:46.174 [main] CUSTOMER Logging.Test - male count: 6
+2020-06-08 14:47:46.174 [main] CUSTOMER Logging.Test - female count: 2
+2020-06-08 14:47:46.174 [main] CUSTOMER Logging.Test - person with children: 1
+2020-06-08 14:47:46.174 [main] CUSTOMER Logging.Test - person with children more than 2: 0
+2020-06-08 14:47:46.175 [main] CUSTOMER Logging.Test - child boy count: 0
+2020-06-08 14:47:46.175 [main] CUSTOMER Logging.Test - person with cat: 3
+2020-06-08 14:47:46.175 [main] CUSTOMER Logging.Test - person with parrot: 4
+2020-06-08 14:47:46.175 [main] CUSTOMER Logging.Test - person with dancing hobby: 2
+2020-06-08 14:47:59.227 [main] WARN  Logging.PeopleBuilder - Warning: hobby amount must be more 0, current value = -2
+2020-06-08 14:47:59.229 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = -1
+2020-06-08 14:47:59.229 [main] WARN  Logging.PeopleBuilder - Warning: pet amount must be more 0, current value = -1
+2020-06-08 14:47:59.230 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = -2
+2020-06-08 14:47:59.230 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = -2
+2020-06-08 14:47:59.231 [main] WARN  Logging.PeopleBuilder - Warning: pet amount must be more 0, current value = -1
+2020-06-08 14:47:59.231 [main] WARN  Logging.PeopleBuilder - Warning: hobby amount must be more 0, current value = -1
+2020-06-08 14:47:59.231 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = 0
+2020-06-08 14:47:59.232 [main] WARN  Logging.PeopleBuilder - Warning: pet amount must be more 0, current value = -1
+2020-06-08 14:47:59.232 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = 0
+2020-06-08 14:47:59.232 [main] WARN  Logging.PeopleBuilder - Warning: hobby amount must be more 0, current value = -1
+2020-06-08 14:47:59.233 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = 0
+2020-06-08 14:47:59.233 [main] WARN  Logging.PeopleBuilder - Warning: pet amount must be more 0, current value = -1
+2020-06-08 14:47:59.234 [main] WARN  Logging.PeopleBuilder - Warning: hobby amount must be more 0, current value = -1
+2020-06-08 14:47:59.234 [main] WARN  Logging.PeopleBuilder - Warning: pet amount must be more 0, current value = 0
+2020-06-08 14:47:59.235 [main] WARN  Logging.PeopleBuilder - Warning: hobby amount must be more 0, current value = 0
+2020-06-08 14:47:59.235 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = -1
+2020-06-08 14:47:59.235 [main] WARN  Logging.PeopleBuilder - Warning: pet amount must be more 0, current value = 0
+2020-06-08 14:47:59.236 [main] CUSTOMER Logging.Test -  STATISTICS 
+2020-06-08 14:47:59.236 [main] CUSTOMER Logging.Test - person count: 10
+2020-06-08 14:47:59.237 [main] CUSTOMER Logging.Test - male count: 1
+2020-06-08 14:47:59.238 [main] CUSTOMER Logging.Test - female count: 3
+2020-06-08 14:47:59.238 [main] CUSTOMER Logging.Test - person with children: 5
+2020-06-08 14:47:59.238 [main] CUSTOMER Logging.Test - person with children more than 2: 4
+2020-06-08 14:47:59.238 [main] CUSTOMER Logging.Test - child boy count: 2
+2020-06-08 14:47:59.239 [main] CUSTOMER Logging.Test - person with cat: 2
+2020-06-08 14:47:59.239 [main] CUSTOMER Logging.Test - person with parrot: 2
+2020-06-08 14:47:59.239 [main] CUSTOMER Logging.Test - person with dancing hobby: 3
+2020-06-08 14:48:02.507 [main] WARN  Logging.PeopleBuilder - Warning: hobby amount must be more 0, current value = -2
+2020-06-08 14:48:02.510 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = -1
+2020-06-08 14:48:02.511 [main] WARN  Logging.PeopleBuilder - Warning: hobby amount must be more 0, current value = 0
+2020-06-08 14:48:02.512 [main] WARN  Logging.PeopleBuilder - Warning: pet amount must be more 0, current value = 0
+2020-06-08 14:48:02.513 [main] WARN  Logging.PeopleBuilder - Warning: hobby amount must be more 0, current value = -1
+2020-06-08 14:48:02.513 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = -2
+2020-06-08 14:48:02.513 [main] WARN  Logging.PeopleBuilder - Warning: hobby amount must be more 0, current value = -1
+2020-06-08 14:48:02.514 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = -2
+2020-06-08 14:48:02.514 [main] WARN  Logging.PeopleBuilder - Warning: pet amount must be more 0, current value = 0
+2020-06-08 14:48:02.514 [main] WARN  Logging.PeopleBuilder - Warning: hobby amount must be more 0, current value = 0
+2020-06-08 14:48:02.515 [main] WARN  Logging.PeopleBuilder - Warning: pet amount must be more 0, current value = 0
+2020-06-08 14:48:02.515 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = -2
+2020-06-08 14:48:02.516 [main] WARN  Logging.PeopleBuilder - Warning: hobby amount must be more 0, current value = -1
+2020-06-08 14:48:02.516 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = -1
+2020-06-08 14:48:02.517 [main] WARN  Logging.PeopleBuilder - Warning: pet amount must be more 0, current value = 0
+2020-06-08 14:48:02.517 [main] WARN  Logging.PeopleBuilder - Warning: hobby amount must be more 0, current value = -1
+2020-06-08 14:48:02.518 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = -2
+2020-06-08 14:48:02.519 [main] CUSTOMER Logging.Test -  STATISTICS 
+2020-06-08 14:48:02.519 [main] CUSTOMER Logging.Test - person count: 10
+2020-06-08 14:48:02.520 [main] CUSTOMER Logging.Test - male count: 4
+2020-06-08 14:48:02.520 [main] CUSTOMER Logging.Test - female count: 3
+2020-06-08 14:48:02.520 [main] CUSTOMER Logging.Test - person with children: 6
+2020-06-08 14:48:02.520 [main] CUSTOMER Logging.Test - person with children more than 2: 4
+2020-06-08 14:48:02.521 [main] CUSTOMER Logging.Test - child boy count: 3
+2020-06-08 14:48:02.521 [main] CUSTOMER Logging.Test - person with cat: 2
+2020-06-08 14:48:02.521 [main] CUSTOMER Logging.Test - person with parrot: 2
+2020-06-08 14:48:02.521 [main] CUSTOMER Logging.Test - person with dancing hobby: 0
+2020-06-08 14:49:44.993 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = -1
+2020-06-08 14:49:44.996 [main] WARN  Logging.PeopleBuilder - Warning: pet amount must be more 0, current value = 0
+2020-06-08 14:49:44.997 [main] WARN  Logging.PeopleBuilder - Warning: hobby amount must be more 0, current value = 0
+2020-06-08 14:49:44.998 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = 0
+2020-06-08 14:49:44.998 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = 0
+2020-06-08 14:49:44.999 [main] WARN  Logging.PeopleBuilder - Warning: pet amount must be more 0, current value = -1
+2020-06-08 14:49:44.999 [main] WARN  Logging.PeopleBuilder - Warning: hobby amount must be more 0, current value = -1
+2020-06-08 14:49:44.999 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = -1
+2020-06-08 14:49:45.000 [main] WARN  Logging.PeopleBuilder - Warning: hobby amount must be more 0, current value = 0
+2020-06-08 14:49:45.000 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = 0
+2020-06-08 14:49:45.000 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = -2
+2020-06-08 14:49:45.001 [main] WARN  Logging.PeopleBuilder - Warning: pet amount must be more 0, current value = 0
+2020-06-08 14:49:45.001 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = -1
+2020-06-08 14:49:45.002 [main] WARN  Logging.PeopleBuilder - Warning: pet amount must be more 0, current value = -1
+2020-06-08 14:49:45.003 [main] WARN  Logging.PeopleBuilder - Warning: hobby amount must be more 0, current value = -1
+2020-06-08 14:49:45.003 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = -2
+2020-06-08 14:49:45.003 [main] WARN  Logging.PeopleBuilder - Warning: children amount must be more 0, current value = -2
+2020-06-08 14:49:45.004 [main] CUSTOMER Logging.Test -  STATISTICS 
+2020-06-08 14:49:45.004 [main] CUSTOMER Logging.Test - person count: 10
+2020-06-08 14:49:45.004 [main] CUSTOMER Logging.Test - male count: 5
+2020-06-08 14:49:45.005 [main] CUSTOMER Logging.Test - female count: 3
+2020-06-08 14:49:45.005 [main] CUSTOMER Logging.Test - person with children: 1
+2020-06-08 14:49:45.005 [main] CUSTOMER Logging.Test - person with children more than 2: 0
+2020-06-08 14:49:45.005 [main] CUSTOMER Logging.Test - child boy count: 0
+2020-06-08 14:49:45.006 [main] CUSTOMER Logging.Test - person with cat: 4
+2020-06-08 14:49:45.006 [main] CUSTOMER Logging.Test - person with parrot: 4
+2020-06-08 14:49:45.006 [main] CUSTOMER Logging.Test - person with dancing hobby: 2
